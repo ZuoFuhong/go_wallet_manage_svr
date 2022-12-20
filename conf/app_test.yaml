@@ -1,0 +1,9 @@
+server:
+  name: go_wallet_manage_svr
+  addr: 127.0.0.1
+  port: 1025
+
+monica:
+  namespace: Test
+  service_name: go_wallet_manage_svr
+  token: 18ee7064-3cdd-4ed5-a139-fd8d9add5847
